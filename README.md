@@ -19,7 +19,7 @@ After compiling the two cpp files into programs, we can implement GEE on the exa
 ```
 ./gee/geec_twoloop ./data/example_data/studyId.csv ./data/example_data/outcomes.csv ./data/example_data/designX.csv
 ```
-User can optionally set an additional fourth arguments of weights in GEE.  
+Users can optionally set an additional fourth arguments of weights in GEE.  
 
 ## Performance benchmarks
 
