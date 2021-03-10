@@ -1,6 +1,4 @@
-// Biostats 615 - Statistical Computing //
-// fastGEE.cpp - Tahmeed Tureen, Henghsi Yu, and Weiqi Zhou
-// Supplement C++ Code for Final Project
+// Statistical Computing //
 
 // Load typical packages
 #include<cmath>
