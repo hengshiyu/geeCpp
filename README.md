@@ -1,10 +1,10 @@
-# geeCpp: a c++ package for implementation of generalized estimating equations (GEE)
+# geeCpp: a C++ package for implementation of generalized estimating equations (GEE)
 Hengshi Yu, Tahmeed Tureen, Weiqi Zhou
 
 
 ## Introduction
 
-This is a c++ course project for the statistical computing course. 
+This is a C++ course project for the statistical computing course. 
 
 
 ## Implementation 
